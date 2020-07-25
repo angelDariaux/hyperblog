@@ -4,6 +4,13 @@ body
    text-align: left;
    font-family: Arial;
 }
+#cabecera
+{
+   background: #3333aa;
+   color: white;
+   margin: 0;
+   padding: 0.5em;
+}
 #container
 {
    width: 70%;
